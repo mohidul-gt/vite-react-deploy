@@ -1,4 +1,3 @@
-// Home.jsx
 import React from 'react';
 import './Home.css';
 
@@ -52,7 +51,7 @@ function Home() {
       </main>
 
       <footer className="App-footer">
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Mohidul. All rights reserved.</p>
       </footer>
     </>
   );
