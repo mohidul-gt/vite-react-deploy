@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.App-header {
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.App-header p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.App-main {
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-section, .experience-section, .skills-section, .education-section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  border-bottom: 2px solid #61dafb;
+  padding-bottom: 5px;
+}
+
+.experience-item {
+  text-align: left;
+  margin: 15px 0;
+}
+
+.experience-item h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.skills-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills-section li {
+  margin: 5px 0;
+}
+
+.App-footer {
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
